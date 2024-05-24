@@ -5,5 +5,3 @@
 
 I am a Systems Analyst and Developer and I am passionate about technology. I am always looking to improve my skills and learn new technologies. Currently, I am focused on becoming a Fullstack developer. My goal is to create innovative and efficient solutions that can make a difference. 
 Let's collaborate with me!
-
----
