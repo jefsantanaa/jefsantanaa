@@ -7,5 +7,3 @@ I am a Systems Analyst and Developer and I am passionate about technology. I am 
 Let's collaborate with me!
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefsantanaa&hide_progress=true-icons=true&theme=dark)
