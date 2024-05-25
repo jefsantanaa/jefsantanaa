@@ -1,5 +1,5 @@
 ### <div align="center">👋 Hi there! I'm Jefferson.</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/jefsantanaa//) [![Reddit](https://img.shields.io/badge/Reddit-100000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/https://www.reddit.com/user/jefsantanaa/) [![Linktree](https://img.shields.io/badge/linktree-100000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jefsantanaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefsantanaa/) [![Reddit](https://img.shields.io/badge/Reddit-100000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/jefsantanaa/) [![Linktree](https://img.shields.io/badge/linktree-100000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jefsantanaa)
 
 ---
 
