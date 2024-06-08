@@ -1,7 +1,10 @@
-## <div align="center">👋 Hi there! I'm Jefferson.</div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefsantanaa/) [![Reddit](https://img.shields.io/badge/Reddit-100000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/jefsantanaa/) [![Linktree](https://img.shields.io/badge/linktree-100000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jefsantanaa)
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
----
+I'm Jefferson, a Systems Analyst and Developer based in São Paulo, Brazil.
 
-I am a Systems Analyst and Developer and I am passionate about technology. I am always looking to improve my skills and learn new technologies. Currently, I am focused on becoming a Fullstack developer. My goal is to create innovative and efficient solutions that can make a difference.
-Let's collaborate with me!
+With a passion for technology and innovation, I'm primarily interested in full-stack development, constantly seeking to improve my knowledge and skills. Currently, I am focused on exploring the fascinating world of Generative AIs and integrating these technologies into innovative projects. I am particularly interested in how artificial intelligence can transform and enhance software development.
+
+Outside of work, I'm passionate about movies, always looking for new films and documentaries to watch. I'm also a dedicated gamer and enjoy exploring the beauty of cities through my camera lens. Check out one of my projects: [Malta Through My Lens](https://www.behance.net/gallery/169869371/Malta-Through-My-Lens).
+
+#### Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefsantanaa/) [![Linktree](https://img.shields.io/badge/linktree-100000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jefsantanaa)
